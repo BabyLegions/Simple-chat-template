@@ -1,3 +1,3 @@
 # Simple chat template
 
--A simple chat in HTML + JS + CSS
+A simple chat in HTML + JS + CSS
